@@ -984,7 +984,7 @@ header {
 
 .pricing::after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #e8e8e8;
     position: absolute;
     left: 0;
     right: 0;
@@ -1013,7 +1013,7 @@ header {
 }
 
 .pricing:hover .price-title {
-    color: #4c40ff;
+
 }
 
 .pricing .price {
@@ -1042,7 +1042,7 @@ header {
 }
 
 .pricing:hover .price h3 {
-    color: #fff;
+
 }
 
 .pricing .duration {
@@ -1827,7 +1827,7 @@ header {
 }
 .preloader span {
     display: inline-block;
-    background-color: #4c40ff;
+    background-color: #66cc00;
     width: 25px;
     height: 25px;
     -webkit-animation: 1s preload ease-in-out infinite;
